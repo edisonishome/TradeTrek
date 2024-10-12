@@ -39,4 +39,8 @@ mathmatical optimizations, code refactoring and clean-up redundant codes, improv
 ## Screenshots
 
 ![App Screenshot](./src/img/screen1.png)
-
+![App Screenshot](./src/img/Screenshot%202024-10-12%20205954.png)
+![App Screenshot](./src/img/Screenshot%202024-10-12%20210205.png)
+![App Screenshot](./src/img/Screenshot%202024-10-12%20210209.png)
+![App Screenshot](./src/img/Screenshot%202024-10-12%20210219.png)
+![App Screenshot](./src/img/Screenshot%202024-10-12%20210224.png)
