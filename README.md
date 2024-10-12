@@ -38,5 +38,5 @@ What optimizations did you make in your code? E.g. refactors, performance improv
 mathmatical optimizations, code refactoring and clean-up redundant codes, improve performance by optimizing memory, and caching and data preprocessing.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./src/img/screen1.png)
 
