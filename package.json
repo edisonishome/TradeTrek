@@ -1,5 +1,5 @@
 {
-  "name": "spice-hustle",
+  "name": "TradeTrek",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,7 +17,7 @@
     "react-dom": "^18.2.0",
     "react-intl": "^6.4.3",
     "react-redux": "^8.0.7",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "sass": "^1.63.2",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
@@ -27,7 +27,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test --coverage --watchAll",
     "lint": "eslint . --ext .ts,.tsx",
-    "deploy": "aws s3 sync build/ s3://spicehustle.ridiculopathy.com",
+    "deploy": "aws s3 sync build/ s3://TradeTrek.ridiculopathy.com",
     "eject": "react-scripts eject"
   },
   "browserslist": {

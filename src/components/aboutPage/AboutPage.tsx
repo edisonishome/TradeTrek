@@ -56,7 +56,7 @@ const AboutPage = () => {
       <div className="relative">
         <header className="container mx-auto py-6 px-4 text-center text-gray-200">
           <h1 className="text-[4rem] text-center text-transparent bg-clip-text bg-gradient-to-b from-yellow-300 to-red-600 drop-shadow-3xl">
-            How to Play Spice Hustle
+            How to Play TradeTrek
           </h1>
           <div className="absolute right-[1rem] top-[1rem]" data-testid="close-game">
             <CloseButton handleClose={() => handleReturnToMain()} />

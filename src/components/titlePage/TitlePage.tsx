@@ -4,7 +4,7 @@ import Footer from 'components/common/Footer';
 import { useGameSliceSelector, useGameSliceDispatch } from 'store/reduxHooks';
 import { startNewGame, setModalStatus, setAppStatus } from 'store/gameSlice';
 import SavedGameModal from './SavedGameModal';
-import BgLayer0 from 'img/titlePage/spice-hustle-title-page-bg.svg';
+import BgLayer0 from 'img/titlePage/TradeTrek-title-page-bg.svg';
 import ImgCloud1 from './images/ImgCloud1';
 import ImgCloud2 from './images/ImgCloud2';
 import ImgCloud3 from './images/ImgCloud3';
