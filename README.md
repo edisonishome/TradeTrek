@@ -43,6 +43,7 @@ It's up to you to build your fortune and save enough for retirement, so don't wa
 Keep your eyes open for profit opportunities. In addition to price differences between cities, prices will fluctuate sightly over time in each local market. Some items are seasonal, so selling an item out of season can fetch a handsome return.
 
 ![App Screenshot](./src/img/scrshot/main.png)
+![App Screenshot](./src/img/scrshot/htp.png)
 
 ## Buying and Selling
 
@@ -68,12 +69,11 @@ Travel can be dangerous, even between locations that are not very far apart. For
 
 Each location you visit will have a branch of the main Spice Road Bank where you can store your money for use later and take out or repay loans. Saving money helps prevent large losses when you encounter bandits or charlatans on the road while traveling. Since each branch is connected via couriers and carrier pigeons, they operate as a single entity. So, you can deposit money in one city and withdraw it again in another.
 
-![App Screenshot](./src/img/scrshot/bank_saving.png)
+![App Screenshot](./src/img/scrshot/bank-1.png)
 
 Loans are a great way to kick-start a thriving business on the Spice Road. As you might imagine, though, this kind of financial boost comes at a cost. The fee for each loan is added to the principle from the start, and you have a set amount of time to pay it back. If you miss the due date, bad things happen, so do not miss the due date. Also, all loans count against your net wealth. At the end of your limited time on the Spice Road, you want enough net wealth to retire comfortably, and you can't do that with a bunch of outstanding loans.
 
-![App Screenshot](./src/img/scrshot/bank_loan.png)
-![App Screenshot](./src/img/scrshot/make_loan.png)
+![App Screenshot](./src/img/scrshot/bank-2.png)
 
 ## Guilds
 
